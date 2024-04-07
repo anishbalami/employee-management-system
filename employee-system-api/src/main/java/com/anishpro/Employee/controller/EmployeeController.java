@@ -2,7 +2,6 @@ package com.anishpro.Employee.controller;
 
 import com.anishpro.Employee.model.Employee;
 import com.anishpro.Employee.services.EmployeeService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
